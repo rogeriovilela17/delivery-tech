@@ -1,2 +1,2 @@
-# delivery-api-thiagopinotti
-Projedo do Curso de Arquitetura de sistemas QualificaSP
+# delivery-api-rogeriovilela
+Projeto do Curso de Arquitetura de sistemas
